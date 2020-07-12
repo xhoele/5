@@ -1,0 +1,260 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: #1d1d1d;
+}
+
+#navbar-bag a {
+    background-image: url(../images/navbar-bag.png);
+    width: 15.12px;
+    height: 9.07px;
+    position: absolute;
+    left: 7.88px;
+    top: 8px;
+    transition: 0.7s;
+    opacity: 80%;
+}
+
+#navbar-bag a:hover {
+    opacity: 100%;
+}
+
+#navbar-logo a {
+    background-image: url(../images/navbar-logo.png);
+    width: 26.83px;
+    height: 9.93px;
+    position: absolute;
+    left: 194.17px;
+    top: 9px;
+    transition: 0.7s;
+    opacity: 80%;
+}
+
+#navbar-logo a:hover {
+    opacity: 100%;
+}
+
+#navbar-hamburger a {
+    background-image: url(../images/navbar-hamburger.png);
+    width: 8.45px;
+    height: 2.79px;
+    position: absolute;
+    left: 394px;
+    top: 12px;
+    transition: 0.7s;
+    opacity: 80%;
+}
+
+#navbar-hamburger a:hover {
+    opacity: 100%;
+}
+
+#blue-line-1 {
+    background-image: url(../images/blue-line-1.png);
+    width: 414px;
+    height: 18px;
+    position: absolute;
+    left: 0px;
+    top: 30px;
+}
+
+#blue-line-1-text {
+    color: #f4f4f4;
+    font-family: 'Montserrat SemiBold';
+    font-size: 7px;
+    position: absolute;
+    left: 104px;
+    top: 35px;
+}
+
+#white-line {
+    background-image: url(../images/white-line.png);
+    width: 414px;
+    height: 14px;
+    position: absolute;
+    left: 0px;
+    top: 48px;
+}
+
+#white-line-text {
+    color: #1d1d1d;
+    font-family: 'Montserrat SemiBold';
+    font-size: 6.5px;
+    position: absolute;
+    left: 146px;
+    top: 51px;
+}
+
+#dark-section {
+    background-image: url(../images/dark-section.png);
+    width: 414px;
+    height: 204px;
+    position: absolute;
+    left: 0px;
+    top: 62px;
+}
+
+#pants-img {
+    background-image: url(../images/pants-img.png);
+    width: 155px;
+    height: 155px;
+    position: absolute;
+    left: 10px;
+    top: 87px;
+}
+    
+
+    /*insert zoom animation when cursor hovers onto pants-img*/
+
+
+#arrow {
+    background-image: url(../images/arrow.png);
+    width: 10.5px;
+    height: 10px;
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 161px;
+    top: 160px;
+    cursor: pointer;
+    opacity: 80%;
+    transition: 0.7s;
+}
+
+#arrow:hover {
+    opacity: 100%;
+}
+
+#btn-1 {
+    background-image: url(../images/btn-1.png);
+    width: 5px;
+    height: 2px;
+    position: absolute;
+    left: 78px;
+    top: 248px;
+    opacity: 80%;
+    transition: 0.7s;
+}
+
+#btn-1:hover {
+    opacity: 100%;
+}
+
+#btn-2 {
+    background-image: url(../images/btn-2.png);
+    width: 5px;
+    height: 2px;
+    position: absolute;
+    left: 85px;
+    top: 248px;
+    opacity: 80%;
+    transition: 0.7s;
+}
+
+#btn-2:hover {
+    opacity: 100%;
+}
+
+#btn-3 {
+    background-image: url(../images/btn-3.png);
+    width: 5px;
+    height: 2px;
+    position: absolute;
+    left: 92px;
+    top: 248px;
+    opacity: 80%;
+    transition: 0.7s;
+}
+
+
+#btn-3:hover {
+    opacity: 100%;
+}
+
+.container-btn {
+    cursor: pointer;
+}
+
+#stop-looking-at-my-dick {
+    color: #f4f4f4;
+    font-family: 'Montserrat SemiBold';
+    font-size: 10px;
+    position: absolute;
+    left: 239px;
+    top: 103px;
+}
+
+#sweatpants {
+    color: #f4f4f4;
+    font-family: 'Montserrat SemiBold';
+    font-size: 8px;
+    position: absolute;
+    left: 278px;
+    top: 119px;
+}
+
+#size {
+    font-family: 'Montserrat SemiBold';
+    color: #f4f4f4;
+    font-size: 8px;
+    position: absolute;
+    left: 239px;
+    top: 137px;
+}
+
+#size-selector select {
+    position: absolute;
+    left: 239px;
+    top: 152px;
+    width: 40px;
+    height: 18px;
+    color: rgba(29, 29, 29, 80%);
+    font-family: 'Montserrat SemiBold';
+    font-size: 8px;
+    border: none;
+}
+
+#price {
+    color: #f4f4f4;
+    font-family: 'Montserrat SemiBold';
+    font-size: 6px;
+    position: absolute;
+    left: 366px;
+    top: 156px;
+}
+
+#order-now {
+    background-color: #3093f3;
+    width: 127px;
+    height: 11px;
+    border-radius: 2px;
+    border: none;
+    position: absolute;
+    left: 249px;
+    top: 195px;
+    font-family: 'Montserrat SemiBold';
+    font-size: 6px;
+    cursor: pointer;
+    opacity: 80%;
+    transition: 0.7s;
+}
+
+#blue-line-2 {
+    background-image: url(../images/blue-line-2.png);
+    width: 414px;
+    height: 13px;
+    position: absolute;
+    left: 0px;
+    top: 266px;
+}
+
+#white-section {
+    background-image: url(../images/white-section.png);
+    width: 414px;
+    height: 204px;
+    position: absolute;
+    left: 0px;
+    top: 277px;
+}
