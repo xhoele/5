@@ -258,3 +258,91 @@ body {
     left: 0px;
     top: 277px;
 }
+
+#new-merch-text {
+    color: #1d1d1d;
+    font-family: 'Montserrat';
+    font-weight: bold;
+    font-size: 14px;
+    position: absolute;
+    left: 166px;
+    top: 289px;
+}
+
+#pants-img-2 {
+    background-image: url(../images/pants-img-2.png);
+    width: 96px;
+    height: 96px;
+    position: absolute;
+    left: 34px;
+    top: 327px;
+}
+
+#pants-btn-1 button {
+    width: 40px;
+    height: 12px;
+    background-color: #3093f3;
+    border-radius: 2px;
+    border: none;
+    position: absolute;
+    left: 62px;
+    top: 433px;
+    cursor: pointer;
+    font-family: 'Montserrat SemiBold';
+    font-size: 5px;
+}
+
+#hoodie-1-img {
+    background-image: url(../images/hoodie-1-img.png);
+    width: 87.72px;
+    height: 96px;
+    position: absolute;
+    left: 162px;
+    top: 327px;
+}
+
+#hoodie-btn-1 button {
+    width: 40px;
+    height: 12px;
+    background-color: #3093f3;
+    border-radius: 2px;
+    border: none;
+    position: absolute;
+    left: 187px;
+    top: 433px;
+    cursor: pointer;
+    font-family: 'Montserrat SemiBold';
+    font-size: 5px;
+}
+
+#pants-img-3 {
+    background-image: url(../images/pants-img-3.png);
+    width: 96px;
+    height: 96px;
+    position: absolute;
+    left: 285px;
+    top: 326px;
+}
+
+#pants-btn-2 button {
+    width: 40px;
+    height: 12px;
+    background-color: #3093f3;
+    border-radius: 2px;
+    border: none;
+    position: absolute;
+    left: 313px;
+    top: 433px;
+    cursor: pointer;
+    font-family: 'Montserrat SemiBold';
+    font-size: 5px;
+}
+
+#blue-line-3 {
+    background-image: url(../images/blue-line-2.png);
+    width: 414px;
+    height: 13px;
+    position: absolute;
+    left: 0px;
+    top: 481px;
+}
