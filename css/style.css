@@ -346,3 +346,101 @@ body {
     left: 0px;
     top: 481px;
 }
+
+#better-than-ever-text {
+    font-family: 'Montserrat';
+    font-weight: bold;
+    font-size: 14px;
+    position: absolute;
+    left: 51px;
+    top: 514px;
+}
+
+#white-section-2 {
+    background-image: url(../images/white-section-2.png);
+    width: 414px;
+    height: 228px;
+    position: absolute;
+    left: 0px;
+    top: 494px;
+}
+
+#buy-now-1 a {
+    background-image: url(../images/buy-now.png);
+    width: 32.82px;
+    height: 7.08px;
+    position: absolute;
+    left: 120px;
+    top: 531px;
+}
+
+#order-now-1 a {
+    background-image: url(../images/order-now.png);
+    width: 38.7px;
+    height: 7.08px;
+    position: absolute;
+    left: 74px;
+    top: 531px;
+}
+
+#apple-products {
+    background-image: url(../images/apple-products.png);
+    width: 185.69px;
+    height: 93.41px;
+    position: absolute;
+    left: 21px;
+    top: 571px;
+}
+
+#apple-products-text {
+    color: #1d1d1d;
+    font-family: 'Montserrat';
+    font-weight: bold;
+    width: 183px;
+    height: 20px;
+    position: absolute;
+    left: 22px;
+    top: 689px;
+    font-size: 8px;
+    text-align: center;
+    font-weight: bold;
+}
+
+#air-pods {
+    color: #1d1d1d;
+    font-family: 'Montserrat';
+    font-weight: bold;
+    position: absolute;
+    left: 290px;
+    top: 511px;
+    font-size: 14px;
+}
+
+#airpods-img {
+    background-image: url(../images/airpods-img.png);
+    width: 71.38px;
+    height: 93.41px;
+    position: absolute;
+    left: 285px;
+    top: 571px;
+}
+
+#buy-now-2 a {
+    background-image: url(../images/buy-now.png);
+    width: 32.82px;
+    height: 7.08px;
+    position: absolute;
+    left: 304px;
+    top: 531px;
+}
+
+#airpods-text {
+    font-family: 'Montserrat';
+    font-weight: bold;
+    font-size: 8px;
+    position: absolute;
+    left: 237px;
+    top: 689px;
+    text-align: center;
+    color: #1d1d1d;
+}
